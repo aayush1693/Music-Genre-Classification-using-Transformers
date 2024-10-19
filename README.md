@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ## Usage
 To use this project, follow the instructions provided in the Jupyter notebooks:
 
-1. Open the Jupyter notebooks in the `notebooks` directory.
+1. Open the Jupyter notebook `exploeration.ipynb`.
 2. Follow the steps in the notebooks to preprocess data, train the model, and evaluate the results.
 
 
